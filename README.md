@@ -1,3 +1,6 @@
+[![make.fun](https://make.fun/badge/black-friday-deal-finder-01.svg)](https://make.fun/bounty/black-friday-deal-finder-01)
+[![rank](https://make.fun/badge/black-friday-deal-finder-01/tuanngo123123/dealhound-black-friday-deal-finder/rank.svg)](https://make.fun/bounty/black-friday-deal-finder-01)
+[![reward](https://make.fun/badge/black-friday-deal-finder-01/tuanngo123123/dealhound-black-friday-deal-finder/reward.svg)](https://make.fun/bounty/black-friday-deal-finder-01)
 # Black Friday Deal Finder — make.fun entry (draft, NOT submitted)
 
 Site: `app/index.html` (single static file, zero network requests, desktop + phone).
